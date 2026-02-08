@@ -7,7 +7,9 @@ ranges = [
     (1, 2000000)
 ]
 
-n_values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+n_cores = os.cpu_count()
+
+n_values = list(range(1, n_cores + 1))
 
 if os.path.exists("time.txt"):
     os.remove("time.txt")
