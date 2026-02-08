@@ -1,0 +1,8 @@
+# ignore all txt output files
+*.txt
+
+# ignore generated prime files
+prime_*.txt
+
+#ignore compiled binary
+primes
