@@ -70,5 +70,7 @@ Run ***plots.ipynb*** to generate performance graphs from the recorded timing re
 * TALLAPUDI CHAITANYA KUMAR(24CS8022)
 * GUDI DEDEEPYA(24CS8029)
 * NIJAMPUDI RAM CHARAN(24CS8024)
+* SHUBHAM MANDAL(24CS8025)
+
 
 
