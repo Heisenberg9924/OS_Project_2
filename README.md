@@ -13,6 +13,7 @@ Execution times are recorded and visualized using plots.
 
 * ***fastmulpar.c*** – Parallel matrix multiplication using multiple processes (`fork`)
 * ***fastmulsequencial.c*** – Sequential matrix multiplication
+* ***myHeader.h and myHeader2.h*** – Contains the necessary header files used in the main code.
 
 ### 🤖 ***AI-Generated Implementations***
 
@@ -21,7 +22,7 @@ Execution times are recorded and visualized using plots.
 
 ### 📊 ***Visualization***
 
-* ***plot.ipynb*** – Generates performance comparison graphs using output data files
+* ***plots.ipynb*** – Generates performance comparison graphs using output data files from time.txt and timeseq.txt.
 
 ---
 
@@ -52,7 +53,7 @@ gcc fastmulser_ai_seq.c -o fastmulser_ai_seq
 ./fastmulser_ai_seq
 ```
 
-Run ***plot.ipynb*** to generate performance graphs from the recorded timing results.
+Run ***plots.ipynb*** to generate performance graphs from the recorded timing results.
 
 ---
 
