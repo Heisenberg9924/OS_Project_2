@@ -67,5 +67,7 @@ Run ***plots.ipynb*** to generate performance graphs from the recorded timing re
 ## 🤝 ***Contributors***
 
 * RUPDEEP RAY(24CS8023)
+* TALLAPUDI CHAITANYA KUMAR(24CS8022)
+* GUDI DEDEEPYA(24CS8029)
 * ---
-* ---
+
